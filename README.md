@@ -54,3 +54,30 @@
 </p>
 
 
+### Resume
+<p align="center">
+  
+  <img src='https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-small.gif' width='120"' height='80"'>
+   <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='120"' height='80"'>
+</p>
+  
+<p align="center">
+  
+   <a href="https://hits.seeyoufarm.com">
+      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flamhan3012cmvn&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" />
+   </a>
+</p>
+
+
+### Github Stats
+
+- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/lamhan3012cmvn">https://profile-summary-for-github.com/user/lamhan3012cmvn</a>
+
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api?username=lamhan3012cmvn&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamhan3012cmvn&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
+</p>
+
+
+
