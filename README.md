@@ -68,16 +68,14 @@
    </a>
 </p>
 
-
+<!-- 
 ### Github Stats
-
-- ***Github profile summary*** <a href="https://profile-summary-for-github.com/user/lamhan3012cmvn">https://profile-summary-for-github.com/user/lamhan3012cmvn</a>
 
 
 <p>
 <img src="https://github-readme-stats.vercel.app/api?username=lamhan3012cmvn&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamhan3012cmvn&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
 </p>
-
+ -->
 
 
