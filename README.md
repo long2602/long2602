@@ -38,12 +38,7 @@
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 
-<h3>💪🏻 Projects </h3>
-- 🐳 &nbsp; Online Fish shop: https://github.com/tmhhh/FishShop <br>
-- 🍽️ &nbsp; Table reservation: https://github.com/DevLeeHuy/Table_Reservation <br>
-- 👔 &nbsp; Clothing store: https://github.com/DevLeeHuy/Summer_Training-2021- <br>
 
-<br>
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats"> -->
 
