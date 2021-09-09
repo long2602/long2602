@@ -49,9 +49,9 @@
 
 ### Resume
 <span align="center">
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300"/>
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="300"/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="300"/>
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="200"/>
+  <img align="center" alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="300"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="200"/>
                                                                                                        
 </span>
 <p>
