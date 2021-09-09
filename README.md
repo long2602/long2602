@@ -50,7 +50,8 @@
 ### Resume
 <p align="center">
   <img alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200" height="200"/>
-  <img alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="200" height="200"/>                                                                                                    
+  <img alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="200" height="200"/>      
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.artstation.com%2Fartwork%2Fe6NoX&psig=AOvVaw19NEdEBSXQQbnCSVUNhEh2&ust=1631246456708000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOCght-A8fICFQAAAAAdAAAAABAI" width="200" height="200"/>
 </p>
 <p align="center"> 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
