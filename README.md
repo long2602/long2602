@@ -48,16 +48,17 @@
 
 
 ### Resume
-<p align="center">
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="200"/>
-  <img align="left" alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200"/>
-  <img align="right" alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="200"/>
+<span align="center">
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="300"/>
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="300"/>
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="300"/>
                                                                                                        
-</p>
-<br>
-<p align="center">
-      <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
-   </a>
+</span>
+<p>
+  <p align="center">
+        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
+     </a>
+  </p>
 </p>
 
 
