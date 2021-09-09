@@ -1,5 +1,6 @@
 <h2> Hey there! I'm Cẩm Tú (NAIRUBI). <img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50"></h2>
-<img align="right" alt="GIF" src="https://giphy.com/embed/LMcB8XospGZO8UQq87?fbclid=IwAR33kPSkni42EgL_GX5RCgyjB2o5goxsCn92gXGgsc2JoKQqyxCXqkRVaDo" />
+<img align="right" alt="GIF" 
+src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966" width="500"/>
                                                                                                                           
 <h3>About Me </h3>
 
