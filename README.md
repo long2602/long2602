@@ -48,15 +48,12 @@
 
 
 ### Resume
-<span align="center">
+<p align="center">
   <img alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200" height="200"/>
   <img alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="200" height="200"/>                                                                                                    
-</span>
-<p>
-  <p align="center">
-        <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
-     </a>
-  </p>
+</p>
+<p align="center"> 
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
 </p>
 
 
