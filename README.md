@@ -1,7 +1,6 @@
 <h2> Hey there! I'm Cẩm Tú (NAIRUBI). <img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50"></h2>
-<img align="right" alt="GIF" <div style="width:100%;height:0;padding-bottom:56%;position:relative;"><iframe src="https://giphy.com/embed/LMcB8XospGZO8UQq87" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/Pluralsight-girl-woman-pluralsight-LMcB8XospGZO8UQq87">via GIPHY</a></p>>
-
-
+<img align="right" alt="GIF" src="https://giphy.com/embed/LMcB8XospGZO8UQq87"  width="480" height="270" />
+                                                                                                                          
 <h3>About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Microservices.
