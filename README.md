@@ -9,8 +9,8 @@
 - 💼 &nbsp; Fullstack web developer.
 - 🌱 &nbsp; Enthusiast in both client side and server side.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I believe, a perfect cup of coffee can be the ultimate solution for any stress. 
-- 🥊 &nbsp; And never forget training
+- ☕ &nbsp; One day or day one. It’s your choice
+- 🥊 &nbsp; And never forget training.You only fail when you stop trying
 
 <h3>🗃️ Tech Stack</h3>
 
@@ -56,13 +56,6 @@
 </p>
 
 ### Destination
-<p>
-  One day or day one. It’s your choice
-</p>
-<p>
-  You only fail when you stop trying
-</p>
-
 <p align="center">
   <img alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200" height="200"/>
   <img alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="200" height="200"/>  
