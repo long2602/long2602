@@ -37,14 +37,7 @@
             ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=Postman)
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
-
-
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=devSouvik&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="devSouvik's Github Stats"> -->
-
 </br>
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devSouvik&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats) -->
 
 
 <h3> 🤝🏻 Connect with Me </h3>
@@ -55,25 +48,17 @@
 
 
 ### Resume
-<!-- <p align="center">
-  
-  <img src='https://thumbs.gfycat.com/OblongJaggedBluemorphobutterfly-small.gif' width='120"' height='80"'>
-   <img src='https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif' width='120"' height='80"'>
+<p align="center">
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/f0ZbMyENLt50v1j4Ql/giphy.gif" width="200"/>
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="500"/>
+  <img align="left" alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP" width="200"/>
+                                                                                                       
 </p>
-   -->
+  
 <p align="center">
       <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
    </a>
 </p>
 
-<!-- 
-### Github Stats
-
-
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=lamhan3012cmvn&count_private=true&show_icons=true&theme=blueberry" width=55% height="204px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamhan3012cmvn&show_icons=true&layout=compact&cache_seconds=1800&langs_count=8&theme=blueberry&count_private=true&show_icons=true" width=40% height="200px"/>
-</p>
- -->
 
 
