@@ -45,7 +45,7 @@
 <p align="center">
 &nbsp; <a href="https://www.facebook.com/camtu.nairubi/" target="_blank" rel="noopener noreferrer"><img src="https://media.macosicons.com/parse/files/macOSicons/9408af703138e50f296786ed0f3ec06d_Facebook.png" width="50" /></a>  
 &nbsp; <a href="mailto:camtu.nguyenthi1312200079@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://preview.redd.it/izqwm1g21b751.png?auto=webp&s=da8f46dec79e38870efeac10d5a829e50792686b"  width="50" /></a>
-&nbsp; <a href="https://www.instagram.com/privatecao/" target="_blank" rel="noopener noreferrer"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fsimilarpng.com%2Finstagram-logo-free-download-png%2F&psig=AOvVaw27RngV5rR5Xzfajya0Ehmi&ust=1631249066593000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNj2icCK8fICFQAAAAAdAAAAABAD"  width="50" /></a>
+&nbsp; <a href="https://www.instagram.com/privatecao/" target="_blank" rel="noopener noreferrer"><img src="https://www.sharpfilms.co.uk/wp-content/uploads/2020/12/7172161b580470deb78078669236d2c1.jpg"  width="50" /></a>
 </p>
 
 
