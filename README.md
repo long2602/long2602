@@ -49,16 +49,16 @@
 
 ### Resume
 <p align="center">    
-  <img src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159" width="300" height="400"/>
+  <img src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159" width="250" height="300"/>
 </p>
 <p align="center"> 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
 </p>
 
-### Destination
+<!-- ### Destination
 <p align="center">
   <img alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="200" height="200"/>
   <img alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="200" height="200"/>  
-</p>
+</p> -->
 
 
