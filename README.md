@@ -50,7 +50,7 @@
 ### Resume
 <span align="center">
   <img alt="GIF" src="https://media.giphy.com/media/1MSVKRopegDjYONwdF/giphy.gif" width="270"/>
-  <img alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="420"/>
+  <img alt="GIF" src="https://media.giphy.com/media/eDDrmbtY0aSAII8ffT/giphy.gif" width="410"/>
   <img alt="GIF" src="https://media.giphy.com/media/4GaHBQh3f4jBEpbQvP/giphy.gif" width="270"/>                                                                                                    
 </span>
 <p>
