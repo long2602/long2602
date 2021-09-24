@@ -14,7 +14,8 @@
 
 <h3>🗃️ Tech Stack</h3>
 
-- ♻ <p> Certidicate: &nbsp; ![Fit for SCRUM](https://www.pinclipart.com/picdir/middle/545-5458637_axon-body-cam-logo-clipart.png) </p>
+-  <p> Certidicate: </p>
+- ♻ &nbsp; ![SCRUM](https://www.pinclipart.com/picdir/big/545-5458637_axon-body-cam-logo-clipart.png) 
 
 - 💻 &nbsp; ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
              ![CSharp](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c)
