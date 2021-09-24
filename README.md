@@ -12,10 +12,12 @@
 - ☕ &nbsp; One day or day one. It’s your choice
 - 🥊 &nbsp; And never forget training.You only fail when you stop trying
 
-<h3>🗃️ Tech Stack</h3>
 
--  <p> Certidicate: </p>
-- ♻ &nbsp; ![SCRUM](https://www.pinclipart.com/picdir/big/545-5458637_axon-body-cam-logo-clipart.png) 
+
+<h3> Certificate </h3>
+- <span> SCRUM Master Certificate from <img src="https://community.sailpoint.com/t5/image/serverpage/image-id/1073i289662F2B2521D10/image-size/large/is-moderation-mode/true?v=v2&px=999" width="50"> /span>
+
+<h3>🗃️ Tech Stack</h3>
 
 - 💻 &nbsp; ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
              ![CSharp](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c)
