@@ -5,7 +5,7 @@
 
 - 🔭 &nbsp; I’m currently learning Microservices.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions, UI/UX design and RESTful API.
-- 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education.
+- 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
 - 💼 &nbsp; Fullstack web developer.
 - 🌱 &nbsp; Enthusiast in both client side and server side.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
@@ -13,6 +13,8 @@
 - 🥊 &nbsp; And never forget training.You only fail when you stop trying
 
 <h3>🗃️ Tech Stack</h3>
+
+- ♻ <p> Certidicate: &nbsp; ![Fit for SCRUM](https://www.pinclipart.com/picdir/middle/545-5458637_axon-body-cam-logo-clipart.png) </p>
 
 - 💻 &nbsp; ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
              ![CSharp](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c)
