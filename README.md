@@ -16,7 +16,7 @@
 
 
 <h3> Certificate </h3>
-- <span> SCRUM Master Certificate from <img src="https://community.sailpoint.com/t5/image/serverpage/image-id/1073i289662F2B2521D10/image-size/large/is-moderation-mode/true?v=v2&px=999" width="50"> AXON</span>
+- <span> SCRUM Master Certificate by AXON</span>
 
 <h3>🗃️ Tech Stack</h3>
 
