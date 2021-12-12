@@ -30,6 +30,7 @@
             ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
             ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
             ![Redux](https://img.shields.io/badge/-Redux-%23e5e5e5?style=flat-square&logo=redux&logoColor=da7cff)
+            ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
 - 🕹️ &nbsp; ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
               ![Express](https://img.shields.io/badge/-Express-E34A86?style=flat-square&logo=Express)
               ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
