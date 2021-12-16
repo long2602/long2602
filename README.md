@@ -4,10 +4,10 @@
                                                                                                                           
 <h3>About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Microservices.
-- 🤔 &nbsp; Exploring new technologies and developing software solutions, UI/UX design and RESTful API.
+- 🔭 &nbsp; I’m currently learning Angular
+- 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
-- 💼 &nbsp; Fullstack web developer.
+- 💼 &nbsp; Goal: Fullstack web developer.
 - 🌱 &nbsp; Enthusiast in both client side and server side.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; One day or day one. It’s your choice
@@ -33,7 +33,6 @@
             ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
 - 🕹️ &nbsp; ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
               ![Express](https://img.shields.io/badge/-Express-E34A86?style=flat-square&logo=Express)
-              ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 - 🛢 &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-e8e8e8?style=flat-square&logo=mysql)
             ![SQLserver](https://img.shields.io/badge/-SQLserver-181717?style=flat-square&logo=sql-server)
             ![MongoDB](https://img.shields.io/badge/-MongoDB-49C31B?style=flat-square&logo=mongodb)
