@@ -5,7 +5,7 @@
                                                                                                                           
 <h3>About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Angular and Nodejs
+- 🔭 &nbsp; I’m currently learning React and Nodejs
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
 - 💼 &nbsp; Goal: Fullstack web developer.
