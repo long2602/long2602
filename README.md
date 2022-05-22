@@ -5,11 +5,11 @@
                                                                                                                           
 <h3>About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Apex and Lightning, something about AWS
+- 🔭 &nbsp; I’m currently Android Developers
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
-- 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education (senior student)
-- 💼 &nbsp; Goal: Fullstack web developer.
-- 🌱 &nbsp; Enthusiast in both client side and server side.
+- 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education
+- 💼 &nbsp; Goal: Project Manager.
+- 🌱 &nbsp; Enthusiast in android and flutter.
 - ✍️ &nbsp; Watching Movie and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; One day or day one. It’s your choice
 - 🥊 &nbsp; And never forget training.You only fail when you stop trying
