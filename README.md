@@ -21,18 +21,16 @@
 
 <h3>🗃️ Tech Stack</h3>
 
-- 💻 &nbsp; ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) 
-             ![CSharp](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c)
-              ![Dart](https://img.shields.io/badge/-CSharp-43aaf9?style=flat-square&logo=c) 
+- 💻 &nbsp; ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+             ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+              ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+              ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+              ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+              ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 - 🌐 &nbsp; ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff) 
             ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3) 
-            ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
             ![Bootstrap](https://img.shields.io/badge/-Bootstrap-%23a366cc?style=flat-square&logo=bootstrap&logoColor=ffffff)
-            ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-            ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
-            ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
-            ![Redux](https://img.shields.io/badge/-Redux-%23e5e5e5?style=flat-square&logo=redux&logoColor=da7cff)
-            ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
+            ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 - 🕹️ &nbsp; ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
               ![Express](https://img.shields.io/badge/-Express-E34A86?style=flat-square&logo=Express)
 - 🛢 &nbsp; ![MySQL](https://img.shields.io/badge/-MySQL-e8e8e8?style=flat-square&logo=mysql)
@@ -42,7 +40,6 @@
 - 🔧 &nbsp; ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
             ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff) 
             ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-            ![Postman](https://img.shields.io/badge/-Postman-181717?style=flat-square&logo=Postman)
             ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku)
 
 </br>
