@@ -54,7 +54,7 @@
 
 ### Resume
 <p align="center">    
-  <img src="https://cdnb.artstation.com/p/assets/images/images/007/854/263/original/rothana-chhourm-ezgif-com-resize-4.gif?1508943159" width="250" height="300"/>
+  <img src="https://cdn.dribbble.com/users/570218/screenshots/2218178/media/d413fe84eb13d9419b4df63ad927577c.gif" width="500" height="300"/>
 </p>
 <p align="center"> 
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FNairubi%2Fhit-counter&count_bg=%23C8883D&title_bg=%23555555&icon=icq.svg&icon_color=%238F7D7D&title=hits&edge_flat=false" />
