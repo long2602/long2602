@@ -1,4 +1,4 @@
-<h2> Hey there! I'm Cẩm Tú (EMBII). <img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50"></h2>
+<h2> Hey there! I'm Thành Long (MEE). <img src="https://chrisdermody.com/content/images/2019/07/animation3-npm_run-v4.gif" width="50"></h2>
 <!-- <img align="right" alt="GIF" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/> -->
 
 <a href="https://app.daily.dev/barbieFox"><img align="right" src="https://api.daily.dev/devcards/7015ed63248148298f6271adaf133aa0.png?r=ucj" width="400" alt="Embii Cẩm Tú's Dev Card"/></a>
