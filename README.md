@@ -5,7 +5,7 @@
                                                                                                                           
 <h3>About Me </h3>
 
-- 🔭 &nbsp; I’m currently Android Developers
+- 🔭 &nbsp; I’m currently Android, Flutter Developers
 - 🤔 &nbsp; Exploring new technologies and developing software solutions
 - 🎓 &nbsp; Studying Software Engineering from HCM University of Technology and Education
 - 💼 &nbsp; Goal: Project Manager.
